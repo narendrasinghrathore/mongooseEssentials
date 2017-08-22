@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-essentials",
+  "version": "1.0.0",
+  "description": "Learning mongoose essentials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendrasinghrathore/mongooseEssentials.git"
+  },
+  "author": "Narendra Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narendrasinghrathore/mongooseEssentials/issues"
+  },
+  "homepage": "https://github.com/narendrasinghrathore/mongooseEssentials#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}
